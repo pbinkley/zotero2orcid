@@ -10,4 +10,5 @@ You have a new ORCID id; you haven't added any of your published works; you have
 ##Dependencies 
 
 * https://github.com/scholrly/orcid-python
+* https://github.com/urschrei/pyzotero
 
